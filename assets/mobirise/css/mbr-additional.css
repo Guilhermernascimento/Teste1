@@ -772,6 +772,53 @@ a {
 .cid-sxio7xFZr4 .card-box {
   color: #e6c63b;
 }
+.cid-sGnMRhmrZX {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #18bf1c;
+}
+.cid-sGnMRhmrZX .media-container-row {
+  justify-content: space-between;
+}
+.cid-sGnMRhmrZX .text-content {
+  max-width: 50%;
+}
+@media (max-width: 768px) {
+  .cid-sGnMRhmrZX .text-content {
+    max-width: none;
+  }
+}
+.cid-sGnMRhmrZX .mbr-iconfont-social {
+  margin: 0.5rem;
+  font-size: 32px;
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-sGnMRhmrZX .mbr-iconfont-social:before {
+  padding: 0.6rem;
+}
+.cid-sGnMRhmrZX .mbr-iconfont-social:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+@media (max-width: 768px) {
+  .cid-sGnMRhmrZX .icons {
+    justify-content: center !important;
+  }
+  .cid-sGnMRhmrZX .text-content * {
+    text-align: center;
+  }
+}
+.cid-sGnMRhmrZX .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+}
 .cid-svKWFUXzC0 {
   padding-top: 3rem;
   padding-bottom: 0rem;
